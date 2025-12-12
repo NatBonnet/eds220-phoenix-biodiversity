@@ -1,4 +1,4 @@
-# EDS220 Final Project Task 2: Visualizing Biodiversity Decline in Phoenix
+# EDS220 Final Project: Visualizing Biodiversity Decline in Phoenix
 
 ## Author
 Nathalie Bonnet
